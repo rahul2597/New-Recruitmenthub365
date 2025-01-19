@@ -20,14 +20,22 @@ const Header = () => {
   };
 
   return (
+<<<<<<< HEAD
     <header className="pt-6 md:py-8 md:px-6 px-4 font-poppins bg-transparent fixed w-full top-0 left-0 z-50 backdrop-blur-md border-b border-slate-500">
+=======
+    <header className="pt-6 md:py-10 md:px-6 px-4 font-poppins bg-transparent fixed w-full top-0 left-0 z-50 backdrop-blur-md border-b">
+>>>>>>> dfe8186096c0e7f58fa581c9f2aa49831a5e1dd8
       <div className="max-w-screen mx-auto flex items-center justify-between">
         <Link to="/" className="text-white font-semibold text-2xl">
           RecruitmentHub 365
         </Link>
 
         <div className="flex items-center justify-center space-x-10 font-semibold">
+<<<<<<< HEAD
           <nav className="hidden md:flex space-x-6 md:gap-x-4 text-white">
+=======
+          <nav className="hidden md:flex space-x-6 md:gap-x-4  text-white">
+>>>>>>> dfe8186096c0e7f58fa581c9f2aa49831a5e1dd8
             <Link to="/about" className="hover:text-green-500">
               ABOUT US
             </Link>

@@ -17,7 +17,11 @@ const HomeHeroSection = () => {
     >
       <div className="md:w-3/5 w-full">
         <h2 className="text-[#25caac] font-poppins font-bold py-6 text-2xl">
+<<<<<<< HEAD
           REDEFINING RECRUITMENT 
+=======
+          REDEFINING RECRUITMENT
+>>>>>>> dfe8186096c0e7f58fa581c9f2aa49831a5e1dd8
         </h2>
         <h1 className="font-bold font-raleway md:text-5xl text-4xl  lg:text-6xl sm:pr-10 pb-10 leading-normal">
           Enabling positive change through the connection of professionals.
