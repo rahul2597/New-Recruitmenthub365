@@ -1,0 +1,7 @@
+@media (max-width: 1000px) {
+  .space-x-8 > :not([hidden]) ~ :not([hidden]) {
+    --tw-space-x-reverse: 0;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+}
